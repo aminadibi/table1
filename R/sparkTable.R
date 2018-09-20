@@ -19,6 +19,9 @@ sampleTable <- function() {
   # create the sparkTable object
   stab <- sparkTable::newSparkTable(dataObj = AT_Soccer, tableContent = content, varType = vars)
   sparkTable::export(stab, outputType = "tex", filename = "./figures/test",  graphNames = "./R/figures/test"))
+  
+
+
 }
 
 # load data (in long format)
