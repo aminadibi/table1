@@ -1,4 +1,4 @@
-Package: table1
+Package: tableOne
 Title: R package for creating the data summary table for clinical studies using Tufte style
 Version: 0.0.0.9000
 Authors@R: c(
