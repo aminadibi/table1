@@ -2,13 +2,13 @@
 % Please edit documentation in R/table.R
 \name{table1}
 \alias{table1}
-\title{Creates a sample table}
+\title{Takes a dataset and returns Table 1 with graphics for distibutions}
 \usage{
-table1(dataset)
+table1(dataset, ContVarList, CatVarList, group = NULL)
 }
 \value{
-sample table
+table1
 }
 \description{
-Creates a sample table
+Takes a dataset and returns Table 1 with graphics for distibutions
 }
