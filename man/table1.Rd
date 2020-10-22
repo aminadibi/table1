@@ -4,7 +4,7 @@
 \alias{table1}
 \title{Takes a dataset and returns Table 1 with graphics for distibutions}
 \usage{
-table1(dataset, ContVarList, CatVarList, group = NULL)
+table1(dataset, ContVarList, CatVarList, group = NULL, color_list = NULL)
 }
 \value{
 table1
