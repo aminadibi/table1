@@ -2,8 +2,8 @@ Package: tableOne
 Title: R package for creating the data summary table for clinical studies using Tufte style
 Version: 0.0.0.9000
 Authors@R: c(
-            person("Amin", "Adibi", email = "amin.adibi@ubc.ca", role = c("aut", "cre")),
-            person("Abdollah", "Safari", email = "asafari@mail.ubc.ca", role = c("aut")))
+            person("Amin", "Adibi", email = "amin.adibi@ubc.ca", role = c("aut")),
+            person("Abdollah", "Safari", email = "a.saffari72@gmail.com", role = c("aut", "cre")))
 Description: Clinical studies often have a table 1 that includes a summary of the data. The package creates publication-quality LaTeX tables with embedded Tufte style graphics. 
 Depends: R (>= 3.4.3)
 License: GPL3
